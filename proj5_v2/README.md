@@ -1,4 +1,5 @@
-# Project 5: Scene Recognition with Bag of Words
+# Project 5:  [Scene Recognition with Bag of Words](https://dellaert.github.io/19F-4476/proj5.html)
+ 
 
 ## Setup
 We will be installing a **NEW** environment for this project; follow the instructions below to set up the env. If you run into import module errors, try “pip install -e .” again, and if that still doesn’t work, you may have to create a fresh environment.
