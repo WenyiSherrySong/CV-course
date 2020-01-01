@@ -1,4 +1,5 @@
-# Project 6: Scene Recognition with Deep Learning
+# Project 6: [Scene Recognition with Deep Learning](https://dellaert.github.io/19F-4476/proj6.html)
+
 
 ## Setup
 
