@@ -1,4 +1,4 @@
-# CS 4476 project 3: [Camera Projection Matrix and Fundamental Matrix Estimation with RANSAC](https://dellaert.github.io/19F-4476/proj3.html/)
+# CS 4476 project 3: [Camera Projection Matrix and Fundamental Matrix Estimation with RANSAC](https://dellaert.github.io/19F-4476/proj3.html)
 
 
 # Setup
