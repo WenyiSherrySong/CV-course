@@ -1,4 +1,4 @@
-# CS 4476 project 1: [Image Filtering and Hybrid Images](https://dellaert.github.io/19F-4476/proj1/)
+# CS 4476 project 1: [Image Filtering and Hybrid Images](https://dellaert.github.io/19F-4476/proj1.html)
 
 # Setup
 1. Install [Miniconda](https://conda.io/miniconda.html). It doesn't matter whether you use Python 2 or 3 because we will create our own environment that uses 3 anyways.
